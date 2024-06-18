@@ -8,6 +8,19 @@
 	<string>Tools</string>
 	<key>connections</key>
 	<dict>
+		<key>0492B6B2-5DFE-4015-B5AD-00945EE3A4C6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>547D80A2-6367-4D8F-945B-B9E30E08F2EF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>077EC59A-B69D-402C-B6F3-1B90106B0704</key>
 		<array>
 			<dict>
@@ -34,6 +47,72 @@
 				<false/>
 			</dict>
 		</array>
+		<key>2D302BBB-9129-4020-91E5-77E5DF7425B9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>434235D5-B716-437F-AFA7-8CBCE4F5BEA0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>41A52D53-13CF-4023-BB47-50909F2E50BF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E21BD0C5-6022-4C26-A144-794283EFC27F</string>
+				<key>disabled</key>
+				<true/>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>788C7A09-0CBA-4451-851E-11CF52C5B0C0</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>0492B6B2-5DFE-4015-B5AD-00945EE3A4C6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>434235D5-B716-437F-AFA7-8CBCE4F5BEA0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE4AF99E-2752-46CA-BFC6-CE91B7EB62F6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>547D80A2-6367-4D8F-945B-B9E30E08F2EF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>921DA0AA-2FCE-48E1-8E6B-7956D148AF9B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>6198B369-A655-49B2-94FB-73A5D775BD0B</key>
 		<array/>
 		<key>64C4997F-C03A-46AC-B313-E29927B0C3BF</key>
@@ -49,11 +128,75 @@
 				<false/>
 			</dict>
 		</array>
+		<key>6BA88F58-F31D-45D5-974E-4ACFDDA73936</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>93A438F8-88A3-4BAA-9F8D-E8F2E88DC854</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2D302BBB-9129-4020-91E5-77E5DF7425B9</string>
+				<key>disabled</key>
+				<true/>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>76D991E7-B043-4D26-A644-F6320807C608</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>077EC59A-B69D-402C-B6F3-1B90106B0704</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>793C32D9-F158-4A5E-845E-159C9A184E8B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>434235D5-B716-437F-AFA7-8CBCE4F5BEA0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>921DA0AA-2FCE-48E1-8E6B-7956D148AF9B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BD905E48-3FCE-4DBF-8E53-6CE5C6E41EAF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>93A438F8-88A3-4BAA-9F8D-E8F2E88DC854</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E21BD0C5-6022-4C26-A144-794283EFC27F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -87,11 +230,49 @@
 				<false/>
 			</dict>
 		</array>
+		<key>AE4AF99E-2752-46CA-BFC6-CE91B7EB62F6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>41A52D53-13CF-4023-BB47-50909F2E50BF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BD905E48-3FCE-4DBF-8E53-6CE5C6E41EAF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>59B52C63-76B9-41A5-848D-06956447ADEA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>7CAA17AA-0FA8-442E-9E43-89AE4E8F9BB5</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>852C1ECF-DA8D-4AFD-B066-60B95BEC707E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>CB576527-D354-4FF4-B376-532FDB00442A</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>DE70E20E-B4BF-4390-9859-7F8E714045AA</string>
+				<string>6BA88F58-F31D-45D5-974E-4ACFDDA73936</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -117,6 +298,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>0BB50000-C25C-4FA0-9BA5-2CBBE4A144DA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E21BD0C5-6022-4C26-A144-794283EFC27F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F7CC0A24-76BD-4A07-8CA0-9D9ED9E5675A</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -152,21 +346,54 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>count</key>
-				<integer>1</integer>
-				<key>keychar</key>
-				<string>m</string>
-				<key>keycode</key>
-				<integer>-1</integer>
-				<key>keymod</key>
-				<integer>1179648</integer>
-				<key>overridewithargument</key>
-				<false/>
+				<key>tasksettings</key>
+				<dict>
+					<key>app_list</key>
+					<string>Discord</string>
+				</dict>
+				<key>taskuid</key>
+				<string>com.alfredapp.automation.core/macOS/app.open</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<string>alfred.workflow.automation.task</string>
 			<key>uid</key>
-			<string>6198B369-A655-49B2-94FB-73A5D775BD0B</string>
+			<string>93A438F8-88A3-4BAA-9F8D-E8F2E88DC854</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>tasksettings</key>
+				<dict>
+					<key>out_format</key>
+					<string>bundle_id</string>
+				</dict>
+				<key>taskuid</key>
+				<string>com.alfredapp.automation.core/macOS/app.current</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.automation.task</string>
+			<key>uid</key>
+			<string>CB576527-D354-4FF4-B376-532FDB00442A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>tasksettings</key>
+				<dict>
+					<key>app_list</key>
+					<string>{var:former_frontmost_app}</string>
+				</dict>
+				<key>taskuid</key>
+				<string>com.alfredapp.automation.core/macOS/app.open</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.automation.task</string>
+			<key>uid</key>
+			<string>F7CC0A24-76BD-4A07-8CA0-9D9ED9E5675A</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -204,71 +431,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>tasksettings</key>
-				<dict/>
-				<key>taskuid</key>
-				<string>com.alfredapp.automation.core/macOS/app.current</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.automation.task</string>
-			<key>uid</key>
-			<string>CB576527-D354-4FF4-B376-532FDB00442A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>conditions</key>
-				<array>
-					<dict>
-						<key>inputstring</key>
-						<string></string>
-						<key>matchcasesensitive</key>
-						<false/>
-						<key>matchmode</key>
-						<integer>4</integer>
-						<key>matchstring</key>
-						<string>Discord</string>
-						<key>outputlabel</key>
-						<string>is Discord</string>
-						<key>uid</key>
-						<string>07C42A59-91D8-4046-B0FF-A9C9FC747109</string>
-					</dict>
-				</array>
-				<key>elselabel</key>
-				<string>else</string>
-				<key>hideelse</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.conditional</string>
-			<key>uid</key>
-			<string>DE70E20E-B4BF-4390-9859-7F8E714045AA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>tasksettings</key>
-				<dict>
-					<key>app_list</key>
-					<string>Discord</string>
-				</dict>
-				<key>taskuid</key>
-				<string>com.alfredapp.automation.core/macOS/app.open</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.automation.task</string>
-			<key>uid</key>
-			<string>0BB50000-C25C-4FA0-9BA5-2CBBE4A144DA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>count</key>
 				<integer>1</integer>
 				<key>keychar</key>
@@ -283,28 +445,27 @@
 			<key>type</key>
 			<string>alfred.workflow.output.dispatchkeycombo</string>
 			<key>uid</key>
-			<string>64C4997F-C03A-46AC-B313-E29927B0C3BF</string>
+			<string>E21BD0C5-6022-4C26-A144-794283EFC27F</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>count</key>
-				<integer>1</integer>
-				<key>keychar</key>
-				<string>⇥</string>
-				<key>keycode</key>
-				<integer>48</integer>
-				<key>keymod</key>
-				<integer>1048576</integer>
-				<key>overridewithargument</key>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
 				<false/>
+				<key>variables</key>
+				<dict>
+					<key>former_frontmost_app</key>
+					<string>{query}</string>
+				</dict>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>ED306F0A-67C6-469F-9128-D5487E4F6E8A</string>
+			<string>6BA88F58-F31D-45D5-974E-4ACFDDA73936</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -323,6 +484,71 @@
 			<string>alfred.workflow.automation.task</string>
 			<key>uid</key>
 			<string>077EC59A-B69D-402C-B6F3-1B90106B0704</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>tasksettings</key>
+				<dict>
+					<key>app_list</key>
+					<string>Discord</string>
+				</dict>
+				<key>taskuid</key>
+				<string>com.alfredapp.automation.core/macOS/app.open</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.automation.task</string>
+			<key>uid</key>
+			<string>434235D5-B716-437F-AFA7-8CBCE4F5BEA0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>tasksettings</key>
+				<dict/>
+				<key>taskuid</key>
+				<string>com.alfredapp.automation.core/macOS/app.current</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.automation.task</string>
+			<key>uid</key>
+			<string>AE4AF99E-2752-46CA-BFC6-CE91B7EB62F6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>Discord</string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>788C7A09-0CBA-4451-851E-11CF52C5B0C0</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>41A52D53-13CF-4023-BB47-50909F2E50BF</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -355,6 +581,47 @@
 			<string>alfred.workflow.utility.conditional</string>
 			<key>uid</key>
 			<string>98F5415C-EB36-4EAD-A724-26A5CF4AB39F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>times</key>
+					<string>0</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>2D302BBB-9129-4020-91E5-77E5DF7425B9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>⚠️ Failed to bring Discord to the front!</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>59B52C63-76B9-41A5-848D-06956447ADEA</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -400,17 +667,272 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>availableviaurlhandler</key>
+				<false/>
+				<key>triggerid</key>
+				<string>trigger</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>793C32D9-F158-4A5E-845E-159C9A184E8B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=$1
+
+result=$((query + 1))
+echo -n "$result"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>11</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>547D80A2-6367-4D8F-945B-B9E30E08F2EF</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>2</integer>
+						<key>matchstring</key>
+						<string>19</string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>7CAA17AA-0FA8-442E-9E43-89AE4E8F9BB5</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>BD905E48-3FCE-4DBF-8E53-6CE5C6E41EAF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<true/>
+				<key>variables</key>
+				<dict>
+					<key>times</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>921DA0AA-2FCE-48E1-8E6B-7956D148AF9B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:times}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>0492B6B2-5DFE-4015-B5AD-00945EE3A4C6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>trigger</string>
+				<key>passinputasargument</key>
+				<false/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>852C1ECF-DA8D-4AFD-B066-60B95BEC707E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>m</string>
+				<key>keycode</key>
+				<integer>-1</integer>
+				<key>keymod</key>
+				<integer>1179648</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>6198B369-A655-49B2-94FB-73A5D775BD0B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>Discord</string>
+						<key>outputlabel</key>
+						<string>is Discord</string>
+						<key>uid</key>
+						<string>07C42A59-91D8-4046-B0FF-A9C9FC747109</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>DE70E20E-B4BF-4390-9859-7F8E714045AA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>⇥</string>
+				<key>keycode</key>
+				<integer>48</integer>
+				<key>keymod</key>
+				<integer>1048576</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>ED306F0A-67C6-469F-9128-D5487E4F6E8A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>m</string>
+				<key>keycode</key>
+				<integer>-1</integer>
+				<key>keymod</key>
+				<integer>1179648</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>64C4997F-C03A-46AC-B313-E29927B0C3BF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>tasksettings</key>
+				<dict>
+					<key>app_list</key>
+					<string>Discord</string>
+				</dict>
+				<key>taskuid</key>
+				<string>com.alfredapp.automation.core/macOS/app.open</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.automation.task</string>
+			<key>uid</key>
+			<string>0BB50000-C25C-4FA0-9BA5-2CBBE4A144DA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string># Mute Discord for Alfred
 
 Mute Discord with a global hotkey without giving the app ‘Input Monitoring’ permission
 
-Download the workflow from the release [page](https://github.com/Sponge-bink/alfred-mute-discord/releases/), double click to install it in Alfred. Choose your favourite hotkey or keyword by editing the ‘Hotkey’ ‘Keyword’ object. And the workflows is ready to use.
+Download the workflow from the release [page](https://github.com/Sponge-bink/alfred-mute-discord/releases/), double click the file to install it in Alfred. Choose your favourite hotkey or keyword by editing the ‘Hotkey’ or ‘Keyword’ object. And the workflows is ready to use.
 
-*Note: The Discord macOS app has a default mute hotkey of ⌘⇧M. But in order to use it globally you have to give the Discord app input monitoring permissions in System Settings. It even requires input monitoring permission (but does not ask you for it!) to even record your custom hotkey. And worse, all hotkeys become global ones once the permission is granted and cannot be disabled. I don't feel comfortable giving the app that permission so I created this workflow.*</string>
+*Note: The Discord macOS app has a default mute hotkey of ⌘⇧M. You don’t need this workflow to achieve this.*
+
+*But in order to use it globally you have to give the Discord app input monitoring permissions in System Settings. It even requires that permission (but does not prompt for it!) to record your custom hotkey. And worse, the default hotkeys become global ones once the permission is granted and those cannot be disabled. I don't feel comfortable giving the app that permission just to use the global hotkey. So I created this workflow.*</string>
 	<key>uidata</key>
 	<dict>
+		<key>0492B6B2-5DFE-4015-B5AD-00945EE3A4C6</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Pass the 'times' variable to +1</string>
+			<key>xpos</key>
+			<real>1560</real>
+			<key>ypos</key>
+			<real>540</real>
+		</dict>
 		<key>077EC59A-B69D-402C-B6F3-1B90106B0704</key>
 		<dict>
 			<key>note</key>
@@ -425,9 +947,53 @@ Download the workflow from the release [page](https://github.com/Sponge-bink/alf
 			<key>note</key>
 			<string>Activate Discord</string>
 			<key>xpos</key>
-			<real>920</real>
+			<real>1015</real>
 			<key>ypos</key>
-			<real>325</real>
+			<real>1270</real>
+		</dict>
+		<key>2D302BBB-9129-4020-91E5-77E5DF7425B9</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Init 'time' variable</string>
+			<key>xpos</key>
+			<real>890</real>
+			<key>ypos</key>
+			<real>385</real>
+		</dict>
+		<key>41A52D53-13CF-4023-BB47-50909F2E50BF</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>If Discord is activated by the ‘Open Apps’ object</string>
+			<key>xpos</key>
+			<real>1380</real>
+			<key>ypos</key>
+			<real>375</real>
+		</dict>
+		<key>434235D5-B716-437F-AFA7-8CBCE4F5BEA0</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Activate Discord</string>
+			<key>xpos</key>
+			<real>1030</real>
+			<key>ypos</key>
+			<real>355</real>
+		</dict>
+		<key>547D80A2-6367-4D8F-945B-B9E30E08F2EF</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>+1 to 'times'</string>
+			<key>xpos</key>
+			<real>1675</real>
+			<key>ypos</key>
+			<real>510</real>
 		</dict>
 		<key>5940FD74-AD1A-428C-B78C-A0A237E48701</key>
 		<dict>
@@ -436,23 +1002,39 @@ Download the workflow from the release [page](https://github.com/Sponge-bink/alf
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
+		<key>59B52C63-76B9-41A5-848D-06956447ADEA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>xpos</key>
+			<real>2125</real>
+			<key>ypos</key>
+			<real>395</real>
+		</dict>
 		<key>6198B369-A655-49B2-94FB-73A5D775BD0B</key>
 		<dict>
 			<key>note</key>
 			<string>Mute Discord</string>
 			<key>xpos</key>
-			<real>920</real>
+			<real>1015</real>
 			<key>ypos</key>
-			<real>160</real>
+			<real>1105</real>
 		</dict>
 		<key>64C4997F-C03A-46AC-B313-E29927B0C3BF</key>
 		<dict>
 			<key>note</key>
 			<string>Mute Discord</string>
 			<key>xpos</key>
-			<real>1090</real>
+			<real>1185</real>
 			<key>ypos</key>
-			<real>325</real>
+			<real>1270</real>
+		</dict>
+		<key>6BA88F58-F31D-45D5-974E-4ACFDDA73936</key>
+		<dict>
+			<key>xpos</key>
+			<real>765</real>
+			<key>ypos</key>
+			<real>305</real>
 		</dict>
 		<key>76D991E7-B043-4D26-A644-F6320807C608</key>
 		<dict>
@@ -461,12 +1043,76 @@ Download the workflow from the release [page](https://github.com/Sponge-bink/alf
 			<key>ypos</key>
 			<real>275</real>
 		</dict>
+		<key>793C32D9-F158-4A5E-845E-159C9A184E8B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>The do again trigger</string>
+			<key>xpos</key>
+			<real>805</real>
+			<key>ypos</key>
+			<real>480</real>
+		</dict>
+		<key>852C1ECF-DA8D-4AFD-B066-60B95BEC707E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Continue</string>
+			<key>xpos</key>
+			<real>2125</real>
+			<key>ypos</key>
+			<real>605</real>
+		</dict>
+		<key>921DA0AA-2FCE-48E1-8E6B-7956D148AF9B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Save to 'times'</string>
+			<key>xpos</key>
+			<real>1855</real>
+			<key>ypos</key>
+			<real>540</real>
+		</dict>
+		<key>93A438F8-88A3-4BAA-9F8D-E8F2E88DC854</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Activate Discord</string>
+			<key>xpos</key>
+			<real>1080</real>
+			<key>ypos</key>
+			<real>160</real>
+		</dict>
 		<key>98F5415C-EB36-4EAD-A724-26A5CF4AB39F</key>
 		<dict>
 			<key>xpos</key>
 			<real>390</real>
 			<key>ypos</key>
 			<real>375</real>
+		</dict>
+		<key>AE4AF99E-2752-46CA-BFC6-CE91B7EB62F6</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>xpos</key>
+			<real>1215</real>
+			<key>ypos</key>
+			<real>355</real>
+		</dict>
+		<key>BD905E48-3FCE-4DBF-8E53-6CE5C6E41EAF</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>if 'times' pass x times</string>
+			<key>xpos</key>
+			<real>1975</real>
+			<key>ypos</key>
+			<real>530</real>
 		</dict>
 		<key>CB576527-D354-4FF4-B376-532FDB00442A</key>
 		<dict>
@@ -480,9 +1126,18 @@ Download the workflow from the release [page](https://github.com/Sponge-bink/alf
 			<key>note</key>
 			<string>Is Discord the front-most app?</string>
 			<key>xpos</key>
-			<real>765</real>
+			<real>860</real>
 			<key>ypos</key>
-			<real>295</real>
+			<real>1240</real>
+		</dict>
+		<key>E21BD0C5-6022-4C26-A144-794283EFC27F</key>
+		<dict>
+			<key>note</key>
+			<string>Mute Discord</string>
+			<key>xpos</key>
+			<real>1560</real>
+			<key>ypos</key>
+			<real>275</real>
 		</dict>
 		<key>ECC91D16-0956-4FB8-82EC-9E304CC8BD6A</key>
 		<dict>
@@ -496,9 +1151,18 @@ Download the workflow from the release [page](https://github.com/Sponge-bink/alf
 			<key>note</key>
 			<string>Go back to previous app</string>
 			<key>xpos</key>
-			<real>1265</real>
+			<real>1360</real>
 			<key>ypos</key>
-			<real>325</real>
+			<real>1270</real>
+		</dict>
+		<key>F7CC0A24-76BD-4A07-8CA0-9D9ED9E5675A</key>
+		<dict>
+			<key>note</key>
+			<string>Recover former frontmost app</string>
+			<key>xpos</key>
+			<real>1750</real>
+			<key>ypos</key>
+			<real>275</real>
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>
