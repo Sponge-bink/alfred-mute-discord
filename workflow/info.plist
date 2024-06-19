@@ -1168,7 +1168,7 @@ Download the workflow from the release [page](https://github.com/Sponge-bink/alf
 	<key>userconfigurationconfig</key>
 	<array/>
 	<key>version</key>
-	<string>0.1</string>
+	<string>0.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/Sponge-bink/alfred-mute-discord</string>
 </dict>
